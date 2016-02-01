@@ -1,0 +1,3 @@
+G:\Demo\Apps\SP-AngularApp\SP-AngularApp\bin\Debug\SP-AngularApp.pdb
+G:\Demo\Apps\SP-AngularApp\SP-AngularApp\obj\Debug\SP-AngularApp.dll
+G:\Demo\Apps\SP-AngularApp\SP-AngularApp\obj\Debug\SP-AngularApp.pdb
